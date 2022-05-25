@@ -22,13 +22,13 @@ export const Title: string = "湘师南迁";
 
 export const TImg: string[] = [
   "",
-  T01YW,
-  T02SY,
-  T03ZK,
-  T04XY,
-  T05Dh,
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/01-yw.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/02-songyang.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/03-zhukou.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/04-xinyao.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/05-daohua.png",
   "",
-  T07XS,
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/07-xiaosan.png.png",
 ];
 export const TText: string[] = [
   "",
@@ -51,12 +51,12 @@ export const MapList: string[] = [
   "师生于1946年1月10日自古市迁回萧山，因湘湖原校舍被毁，20日在祇园寺复课。至此湘师历经艰难险阻，胜利结束了七迁校址，流亡办学的历程。",
 ];
 export const images: string[] = [
-  img00,
-  img01,
-  img02,
-  img03,
-  img04,
-  img05,
-  img06,
-  img07,
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/00.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/01.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/02.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/03.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/04.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/05.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/06.png",
+  "https://zhengke-img.oss-cn-hangzhou.aliyuncs.com/TYG/map/07.png",
 ];
